@@ -65,7 +65,7 @@ Users can create directed and undirected graphs, add heuristic values for nodes,
   
 ## Demo
 
-Watch the demo video [here](IA-search_graph).
+Watch the demo video [here](graph-search.mp4).
 
 ## Authors
 - **Hassen Gadacha** - Second Year Student as a Computer Science Engineer at ENSI.
